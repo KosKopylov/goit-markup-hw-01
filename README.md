@@ -1,3 +1,3 @@
 # goit-markup-hw-01
 
-https://github.com/KosKopylov/goit-markup-hw-01.git
+http://127.0.0.1:5500/index.html#
